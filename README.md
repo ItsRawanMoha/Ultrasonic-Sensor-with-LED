@@ -91,7 +91,7 @@ delay(1000);
 ```
 ## Pictures
 
-<img src="https://github.com/ItsRawanMoha/Ultrasonic-Sensor-with-LED/blob/main/UltraS-with-LEDP.jpeg" alt="Alt text" width="330" height="400">  ![screen-gif](https://github.com/ItsRawanMoha/Ultrasonic-Sensor-with-LED/blob/main/UltraS-with-LEDG.gif)
+<img src="https://github.com/ItsRawanMoha/Ultrasonic-Sensor-with-LED/blob/main/UltraS-with-LEDP.jpeg" alt="Alt text" width="325" height="300">  ![screen-gif](https://github.com/ItsRawanMoha/Ultrasonic-Sensor-with-LED/blob/main/UltraS-with-LEDG.gif)
 
 ![screen-gif](https://github.com/ItsRawanMoha/Ultrasonic-Sensor-with-LED/blob/main/UltraSwithLEDO.png)
 
